@@ -39,7 +39,7 @@ main {
 
 .main-menu {
   overflow: hidden;
-  background: rgb(73, 57, 113);
+  background: #babbf6;
   padding-top: 0.625rem;
   border-radius: 15px 0 0 15px;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -104,7 +104,7 @@ ul li {
   width: 100%;
   height: 100%;
   border-bottom-right-radius: 1.25rem;
-  background: rgb(73, 57, 113);
+  background: #babbf6;
 }
 
 .nav-item b:nth-child(2) {
@@ -124,7 +124,7 @@ ul li {
   width: 100%;
   height: 100%;
   border-top-right-radius: 1.25rem;
-  background: rgb(73, 57, 113);
+  background: #babbf6;
 }
 
 .nav-item.active b:nth-child(1),
